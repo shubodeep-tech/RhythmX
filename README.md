@@ -1,8 +1,8 @@
-RhythmX
+RhythmX:
 
 RhythmMusic is a Muaic player website frontend built using HTML and CSS. The project focuses on creating a modern, responsive, and visually appealing user interface that resembles a real-world music platform.
 
-Features
+Features:
 Modern music streaming UI
 Responsive design for different screen sizes
 Navigation bar with menu options
@@ -15,7 +15,7 @@ Technologies Used
 HTML5
 CSS3
 
-Purpose
+Purpose:
 
 This project was developed to strengthen frontend development skills and gain hands-on experience with:
 
