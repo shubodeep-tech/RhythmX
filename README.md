@@ -14,15 +14,7 @@ Mobile-friendly design
 Technologies Used
 HTML5
 CSS3
-Project Structure
-RhythmMusic/
-│
-├── index.html
-├── style.css
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
+
 Purpose
 
 This project was developed to strengthen frontend development skills and gain hands-on experience with:
