@@ -2,6 +2,9 @@ RhythmX:
 
 RhythmMusic is a Muaic player website frontend built using HTML and CSS. The project focuses on creating a modern, responsive, and visually appealing user interface that resembles a real-world music platform.
 
+LIVE DEMO:
+https://6a2ec22ba1fc5a000803172c--rhythmmuisc.netlify.app/
+
 Features:
 Modern music streaming UI
 Responsive design for different screen sizes
